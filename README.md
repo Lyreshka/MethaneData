@@ -22,4 +22,3 @@ All datasets are publicly accessible via PANGAEA and acknowledged with proper ci
 
 Felden, J; Möller, L; Schindler, U; Huber, R; Schumacher, S; Koppe, R; Diepenbroek, M; Glöckner, FO (2023): PANGAEA – Data Publisher for Earth & Environmental Science. Scientific Data, 10(1), 347, https://doi.org/10.1038/s41597-023-02269-x
 
-## How to Run the App Locally
