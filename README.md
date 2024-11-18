@@ -1,7 +1,6 @@
 ## Library(MethaneData)
 
-This library was created for the use of the following app <https://lyreshka.shinyapps.io/MethaneFluxDataExplorer/>
-
+This library was created for the use of the following app: [Explore the Methane Flux Data Explorer](https://lyreshka.shinyapps.io/MethaneFluxDataExplorer/)
 
 ## Datasets Used and Acknowledgements
 
